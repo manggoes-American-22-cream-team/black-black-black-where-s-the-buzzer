@@ -10,8 +10,16 @@
 
 
 
+IN SFX { ° ~ { ghost 1 + 1+ 8- ing } ~ }}-
 
-IN FX{° ~ { ghost 1+ ing ,err, } 
+   
+      
+       
+        
+       
+                               }
+-{ 0.0/restart startup loging in }
+IN FX{° ~ { ghost 1+ ing ,err, } ~
 
 
 ~{ ghost 8+ing err, }~ @azura typeke : x1/ms hit goukihit.Squidarms Squidarms
